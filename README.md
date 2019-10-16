@@ -1,8 +1,13 @@
-react-preview ([demo](https://browniu.com/react-preview))
+react-preview 
 
 > Image preview in react
 
 [![NPM](https://img.shields.io/npm/v/react-wxpreview.svg)](https://www.npmjs.com/package/react-wxpreview) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+
+## ([Demo](https://browniu.github.io/react-preview))
+
+![demo](./static/preivew.gif)
 
 ## Install（**命名冲突请使用 wxpreview 安装**）
 
