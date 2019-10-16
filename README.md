@@ -7,7 +7,7 @@ react-preview
 
 ## ([Demo](https://browniu.github.io/react-preview))
 
-![demo](./static/preivew.gif)
+![demo](./static/preview.gif)
 
 ## Install（**命名冲突请使用 wxpreview 安装**）
 
