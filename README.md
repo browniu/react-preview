@@ -1,6 +1,6 @@
 react-preview 
 
-> Image preview in react
+> 图片浏览组件
 
 [![NPM](https://img.shields.io/npm/v/react-wxpreview.svg)](https://www.npmjs.com/package/react-wxpreview) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
